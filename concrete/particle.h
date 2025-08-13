@@ -1,3 +1,5 @@
+#pragma once
+
 /* A particle is the simplest object to be simulated in a physics engine */
 #ifndef CONCRETE_PARTICLE_H
 #define CONCRETE_PARTICLE_H

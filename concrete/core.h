@@ -1,3 +1,5 @@
+#pragma once
+
 #include <math.h>
 
 #ifndef CONCRETE_CORE_H
@@ -5,7 +7,8 @@
 
 #include "precision.h"
 
-namespace concrete {
+namespace concrete 
+{
     
     /* Holds a vector in 3 dimensions, 4 members allocated to ensure alignment in array */
     class Vector3

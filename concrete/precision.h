@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef CONCRETE_PRECISION_H
 #define CONCRETE_PRECISION_H
 
