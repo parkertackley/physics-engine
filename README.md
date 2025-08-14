@@ -1,2 +1,2 @@
 # physics-engine
-Implementation of Ian Millington's Cyclone Engine
+My own implementation of a physics engine. Using Ian Millington's Cyclone engine for reference.
