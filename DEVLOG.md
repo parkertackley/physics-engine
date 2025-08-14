@@ -1,5 +1,26 @@
 # Development Log
 
+## [AUG 14 2025 02:00] - Quaternion and Random number progress
+
+### What I worked on
+- Quaternion functions
+- Random number generator
+
+### Challenges / Issues
+- Quaternion math is hard
+- Still no graphical display
+
+### Next Steps
+- Finish final steps of the random number generator
+- Implement the fireworks demo
+- Add a graphical display
+
+### Notes
+- Quaternions are very interesting, confusing at first but very important
+- Not much progress today, had a busy morning
+
+---
+
 ## [AUG 13 2025 02:25] - Random number seed
 
 ### What I worked on

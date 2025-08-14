@@ -22,7 +22,7 @@ namespace concrete
             unsigned rotl(unsigned n, unsigned r);
 
             /* Right bitwise rotation */
-            unsigned rort(unsigned n, unsigned r);
+            unsigned rotr(unsigned n, unsigned r);
 
             /* Creates a new random number stream with a seed based on timing data */
             Random();
@@ -62,7 +62,6 @@ namespace concrete
                 distributed in the region */
             Vector3 randomXZVector(const Vector3 &min, const Vector3 &max);
 
-            // TODO: Quarternion class
             /* Returns a random orientation [ie normalized] quaternion */
             Quaternion randomQuaternion();
 
@@ -71,7 +70,7 @@ namespace concrete
             int p1, p2;
             unsigned buffer[17];
 
-    }
+    };
 
 }
 

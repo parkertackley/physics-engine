@@ -7,6 +7,7 @@
 
 #define real_sqrt sqrtf
 #define real_pow powf
+#define real_epsilon FLT_EPSILON
 
 namespace concrete {
 
